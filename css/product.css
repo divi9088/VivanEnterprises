@@ -1,0 +1,12 @@
+.product{
+    display: inline-flex;
+   margin:40px;
+}
+.product_item{
+    margin: 20px;
+    height: 100%;
+}
+.heading{
+    text-align: center;
+    padding: 40px;
+}

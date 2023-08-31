@@ -1,0 +1,38 @@
+
+
+.latest-items {
+    
+    text-align: center;
+    padding: 80px 0;
+}
+
+.item-carousel {
+    display: flex;
+
+}
+
+.item-card {
+    flex: 0 0 300px;
+    margin: 0 10px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.item-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.item-card h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.item-card p {
+    font-size: 14px;
+    color: #777;
+}
+
+/* Add additional CSS for carousel-style scrolling if needed */
